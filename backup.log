@@ -1,0 +1,8 @@
+2025-04-27 14:07:47,787 - INFO - Database backup service started
+2025-04-27 14:07:47,787 - INFO - Running initial backup...
+2025-04-27 14:07:47,797 - WARNING - No database files found in C:\Users\Gia Huy\Desktop\Chuong3
+2025-04-27 14:07:50,503 - ERROR - Failed to send email: (334, b'UGFzc3dvcmQ6')
+2025-04-27 14:07:58,467 - INFO - Database backup service started
+2025-04-27 14:07:58,469 - INFO - Running initial backup...
+2025-04-27 14:07:58,482 - WARNING - No database files found in C:\Users\Gia Huy\Desktop\Chuong3
+2025-04-27 14:08:01,057 - ERROR - Failed to send email: (334, b'UGFzc3dvcmQ6')
